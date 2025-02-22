@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://GJBoth.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://gjboth.github.io/sitemap.xml
