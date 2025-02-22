@@ -2,21 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI scientist and physicist.  
-
+subtitle: 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an AI researcher and physicist who enjoys building novel computational tools with and for domain experts - an area commonly known as AI4Science. My main specialty is simulating complex (bio-) physical systems and using that for inverse design. The tools I've developed typically involve some AI component, and over the years I've build up a broad range of knowledge, having worked in quantum computing, neuroscience and optics. Some of these tools are open-source, but unfortunately most are not public. My current interests gravitate slightly more towards using AI methods in physical systems or in manufacturing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Besides a strong technical background I'm also active on the organisation side of things: during my studies I spent a year as external relations for a job fair (Wervingsdagen), had the national politics and finance portfolio during my year as university council, and during my PhD I started a coalition leading to higher salaries for all PhD candidates in my institute. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In short: I enjoy building things on both a technical and organisational level which make people better at their jobs
